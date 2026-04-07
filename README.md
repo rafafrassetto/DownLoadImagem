@@ -16,6 +16,10 @@ O projeto aplica conceitos modernos de desenvolvimento mobile, com foco na const
 * SDK Mínimo: API Nível 24
 * Conexão ativa com a internet (permissão `android.permission.INTERNET` declarada no Manifest).
 
+## Link Apresentação : 
+
+https://gamma.app/docs/Coil-imagens-rapidas-leves-e-eficientes-no-Android-t66kc469q4ekhou?mode=doc
+
 ## Evidências
 
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/e107ba4c-e31f-410e-9d82-7f216ab96f31" />
